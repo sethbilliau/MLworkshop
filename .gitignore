@@ -19,4 +19,5 @@ ipython_config.py
 
 **/.DS_Store
 
-**/data/GlobalBehaviorsPerceptions_Data_May21_2020.dta
+*/pima.html
+*/iris.html
